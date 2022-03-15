@@ -15,6 +15,8 @@
 # limitations under the License.
 """PyTorch BERT model."""
 
+# 一些注释
+
 
 import math
 import os
